@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <M_lp_daikuan>
+        <city>杭州</city>
+        <name>佳佳</name>
+        <sex>男士</sex>
+        <phone>13917795979</phone>
+    </M_lp_daikuan>
+    <M_lp_daikuan>
+        <city>北京</city>
+        <name>小K</name>
+        <sex>女士</sex>
+        <phone>13900010001</phone>
+    </M_lp_daikuan>
+    <M_lp_onekey>
+        <city>上海</city>
+        <name>小花</name>
+        <sex>男士</sex>
+        <phone>13900020001</phone>
+    </M_lp_onekey>
+    <M_lp_onekey>
+        <city>广州</city>
+        <name>经理</name>
+        <sex>女士</sex>
+        <phone>13900020002</phone>
+    </M_lp_onekey>
+</data>

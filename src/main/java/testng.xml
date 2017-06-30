@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteJia" verbose="1" preserve-order="true" parallel="false" >
+    <listeners>
+        <!-- class-name的值为监听器路径 -->
+        <listener class-name="report.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+    <test name="Test_M" >
+        <classes>
+            <class name="cases.M_lp_daikuan_case"/>
+            <class name="cases.M_lp_onekey_case"/>
+            <class name="cases.Driver_quit"/>
+        </classes>
+    </test>
+</suite>
+
